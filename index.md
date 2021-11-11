@@ -1,6 +1,7 @@
 ---
 layout: home
 title: HOME
+image: /iamges/mv2.webp
 ---
 
 # 概要
