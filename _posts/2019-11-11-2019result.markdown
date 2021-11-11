@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "2019年度 審査結果"
+categories: 審査結果
+permalink: /2019審査結果/
+---
+
+## 2019年度　審査結果 
+### **【アイデア部門】**
+テーマ：新時代「令和」！つながりで作る価値
+
+<span style="color:red; font-size: 30px;">最優秀賞・総務省中国総合通信局局長賞</span> <br>
+『目録』川上 寛子(鳥取大学大学院)
+
+<span style="color:red; font-size: 25px;">優秀賞</span> <br>
+『アメデス』竹川 峻平(鳥取大学)
+
+<span style="color:red; font-size: 23px;">入賞</span> <br>
+『AIで旅を面白くするWEBサービス』長井 祐樹(岡山理科大学) <br>
+『議論用SNS『トーロン』』深井 叡(松江工業高等専門学校)
+
+<span style="color:red; font-size: 21px;">佳作</span> <br>
+『ふるさと発掘』小山 裕(松江工業高等専門学校) <br>
+『コネクタイ』池田 佳昭(鳥取大学大学院)
+
+<div class="space"> </div>
+
+### **【作品部門】**
+<span style="color:red; font-size: 30px;">最優秀賞・総務省中国総合通信局局長賞</span> <br>
+『ネット対応リレーボックスアプリ』重度障害児支援チーム（岩崎 允宣・堀江 駿介・奥井 大貴）（島根大学）
+
+<span style="color:red; font-size: 25px;">優秀賞</span> <br>
+『マンホールファクトリー』KBD（赤田 拓磨(岡山大学大学院)・橋本 律紀(岡山大学)）
+
+<span style="color:red; font-size: 23px;">入賞</span> <br>
+『夏景色』藤原 巧(島根大学) <br>
+『地域向けスマホ決済アプリ 「かつペイ」』かつペイ推進委員会（勝坂 優希(広島市立大学)・西本 匡志(広島市立大学大学院)） <br>
+
+<div class="space"> </div>

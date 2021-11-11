@@ -1,0 +1,68 @@
+// Placeholder to allow defining custom styles that override everything else.
+// (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+h2{
+    text-decoration:underline;
+    text-decoration-color:#000000;
+  }
+
+h1{
+  font-weight: bold;
+
+  .footer_titile{
+
+    color: white;
+  }
+}
+
+.contentA{
+  width: 58%;
+  height: 310px;
+  padding-right: 2px;
+ }
+
+ .contentB{
+  width: 40%;
+  /*height: 100px;*/
+ }
+  
+ .topimage{
+  margin-bottom: 30px;
+  display: flex;
+ }
+
+ /* footer credit */
+
+ .credit-list{
+  padding-left: 1px;
+ }
+
+.credit-item{
+  margin-bottom: 5px;
+  margin-left: 30px;
+}
+
+a.credit-link{
+  font-weight: bold;
+  font-size: 18px;
+  
+  color:rgb(196, 241, 255);
+  /*text-decoration:underline;*/
+  /*text-decoration-color: white;*/
+}
+
+.credit{
+  font-weight: bold;
+  color: white;
+  font-size: 19px;
+  margin-bottom: 5px;
+  margin-top: 10px;
+}
+
+div.space-30 {
+  padding-top: 30px;
+}
+
+div.space {
+  padding-top: 15px;
+}
+
