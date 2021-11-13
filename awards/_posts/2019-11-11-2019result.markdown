@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "2019年度 審査結果"
-categories: 審査結果
 permalink: /2019審査結果/
 ---
 
