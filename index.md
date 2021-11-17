@@ -4,6 +4,13 @@ title: HOME
 image: /images/mv2.webp
 ---
 
+<div class="space-30"> </div>
+
+## お知らせ
+**[フレッシュITあわ〜ど2021専用ページ]({{site.baseurl}}/2021/)を公開しました**
+
+<div class="space-30"> </div>
+
 ## "フレッシュITあわ〜ど"とは？
 「私たち学生にとって非常に身近なスマホなどの携帯端末を使って何か面白いことができないか」という素朴な発想から、このイベントを始めました。
 
@@ -15,10 +22,14 @@ image: /images/mv2.webp
 * 「フレッシュ」は、若い人(大学院生以下)を対象としていることから名付けました。
 * 「あわ〜ど」は、学生らしいノリと親しみやすさ、学生自身が作り出す(our award)イメージから名付けました。
 
-<div class="space"> </div>
+<div class="space-30"> </div>
 
-# お知らせ 
-**[フレッシュITあわ〜ど2021専用ページ]({{site.baseurl}}/2021/)を公開しました**
-
+<div class="topimage">
+    <div class="contentA">
+        <a class="twitter-timeline" data-lang="ja" data-width="300" data-height="400" data-theme="light" href="https://twitter.com/keitaiaward?ref_src=twsrc%5Etfw">Tweets by keitaiaward</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    </div>
+    <div class="contentB">
+    </div>
+</div>
 
 <div class="space-30"> </div>
