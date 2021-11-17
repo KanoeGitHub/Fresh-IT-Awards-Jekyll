@@ -23,6 +23,11 @@
         </label>
 
         <div class="trigger">
+          <script>
+            var date = new Date();
+            date.setMonth(date.getMonth() - 3);
+            document.write(`<a class="page-link" href="{{site.baseurl}}/${date.getFullYear()}/">${date.getFullYear()}年度</a>`);
+          </script>
           {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
             {%- if my_page.title -%}
