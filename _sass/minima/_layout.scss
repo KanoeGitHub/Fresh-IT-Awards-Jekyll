@@ -12,6 +12,14 @@
   position: relative;
 }
 
+.site-header-logo {
+  display: inline;
+  img{
+    margin: 10px 20px;
+    max-height: 54px;
+  }
+}
+
 .site-title {
   @include relative-font-size(1.625);
   font-weight: 300;
@@ -25,7 +33,7 @@
 
   &,
   &:visited {
-    margin: 30px 5px;
+    margin: 10px 5px;
     font-size: 18px;
     color: rgb(128,128,128);
     font-weight: bold;
@@ -34,7 +42,7 @@
 }
 
 .site-nav {
-  margin: 30px 5px;
+  margin: 10px 5px;
   position: absolute;
   top: 9px;
   right: $spacing-unit / 2;
