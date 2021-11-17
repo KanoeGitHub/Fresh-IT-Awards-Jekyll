@@ -6,7 +6,6 @@ author:
 description: > # this means to ignore newlines until "show_excerpts:"
   この企画は、電子情報通信学会中国支部学生会の学生が中心となって行うイベントです。
   電子情報通信学会中国支部学生会は、「学生力」を結集して「新しい」「面白い」「ワクワクする」ようなイベントを行なっていきます。
-  今回は「フレッシュITあわ～ど2021」と題し、モバイル端末の新たな可能性に関する企画を募集します。
 
 show_excerpts: false # set to true to show excerpts on the homepage
 

@@ -2,10 +2,11 @@
  * Site header
  */
 .site-header {
+  background-color: $header-background;
   border-top: 5px solid $border-color-03;
   border-bottom: 1px solid $border-color-01;
-  min-height: $spacing-unit * 1.865;
-  line-height: $base-line-height * $base-font-size * 2.25;
+  min-height: $spacing-unit * 1.3;
+  line-height: $base-line-height * $base-font-size * 2;
 
   // Positioning context for the mobile navigation icon
   position: relative;
@@ -25,7 +26,7 @@
   &,
   &:visited {
     margin: 30px 5px;
-    font-size: 2vmax;
+    font-size: 18px;
     color: rgb(128,128,128);
     font-weight: bold;
     text-shadow: rgba(255, 255, 255, 0.4) 1px 1px 1px, rgba(0, 0, 0, 0.4) -1px -1px 1px;
@@ -37,7 +38,7 @@
   position: absolute;
   top: 9px;
   right: $spacing-unit / 2;
-  background-color: $background-color;
+  background-color: $header-background;
   border: 1px solid $border-color-01;
   border-radius: 5px;
   text-align: right;
@@ -83,7 +84,7 @@
     line-height: $base-line-height;
     display: block;
     padding: 5px 10px;
-    font-size: clamp(1.3vw, 1.5vw, 2vw);
+    font-size: clamp(14px 15px, 16px);
 
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
