@@ -14,20 +14,60 @@ h1{
   }
 }
 
-.contentA{
-  width: 58%;
-  padding-right: 2px;
- }
-
- .contentB{
-  width: 40%;
-  /*height: 100px;*/
- }
+@media screen and (max-width: 710px) {
+  .topimage {
+    display:block;
+    text-align: center;
   
- .topimage{
-  margin-bottom: 30px;
-  display: flex;
- }
+    .contentA{
+      width: 98%;
+      max-height: 1000px;
+      padding-right: 0px;
+      padding-bottom: 10px;
+      img{
+        height: flex;
+        max-width: 700;
+      }
+    }
+
+    .contentB{
+      width: 98%;
+      max-height: 1000px;
+      padding-bottom: 10px;
+      img{
+        height: flex;
+        max-width: 700;
+      }
+    }
+  }
+
+}
+
+@media screen and (min-width: 711px){
+  .contentA{
+    width: 58%;
+    height: 400px;
+    padding-right: 2px;
+    img{
+      height: 400px;
+    }
+  }
+
+  .contentB{
+    width: 40%;
+    height: 400px;
+    /*height: 100px;*/
+    img{
+      height: 400px;
+    }
+  }
+    
+  .topimage{
+    margin-bottom: 30px;
+    display: flex;
+  }
+}
+
 
  /* footer credit */
 
