@@ -105,6 +105,16 @@ div.space {
   padding-top: 15px;
 }
 
-div.home{
-  margin-left: 20px;
+@media screen and (min-width: 711px){
+  div.home{
+    margin-left: 20px;
+  }
 }
+
+@media screen and (max-width: 710px){
+  div.home{
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+}
+
